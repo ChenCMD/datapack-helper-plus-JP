@@ -10,6 +10,8 @@
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg?style=flat-square)](https://github.com/semantic-release/semantic-release)
 [![Gitmoji](https://img.shields.io/badge/gitmoji-%20%F0%9F%98%9C%20%F0%9F%98%8D-FFDD67.svg?style=flat-square)](https://gitmoji.carloscuesta.me/)
 
+#### [English\(original\)](https://github.com/SPGoding/vscode-datapack-helper-plus/blob/master/README.md) / 日本語
+
 Data-pack Helper Plusは、advancements, dimensions, dimension types, functions, loot tables, predicates, recipes, あらゆる種類のtags, worldgen設定を含むデータパック内のドキュメントのための強力な言語機能を提供します。
 
 この拡張機能を気に入ったら、私を[支援](https://github.com/sponsors/SPGoding)することも検討してください。他にもバグの報告, 機能の提案, 翻訳のサポートも可能です！ 詳細については[CONTRIBUTING.md](https://github.com/SPGoding/datapack-language-server/blob/master/CONTRIBUTING.md)を参照してください。
