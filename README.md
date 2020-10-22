@@ -290,6 +290,6 @@ entity, tags, teams, bossbars, data storages, advancements, functions, loot tabl
 DHPはキャッシュを使用して、名前の変更、参照/定義の検索、ドキュメントリンクなどのプロセスを高速化します。しかし、さまざまな理由によりキャッシュが古くなり奇妙な動作を引き起こす可能性があります。その場合`Datapack: Regenerate Cache`コマンド(日本語名: `Datapack: キャッシュを再生成する`, ID: `datapack.regenerateCache`)を使用して、キャッシュを手動で再生成できます。
 
 - - -
-翻訳: [ちぇん](https://twitter.com/Chen__CMD)
+翻訳: [ちぇん](https://twitter.com/CMD__Cat)
 
 翻訳に気になる点がありましたら気軽に連絡ください。
